@@ -1,21 +1,28 @@
-MIT License
 
-Copyright (c) 2025 Gunavguru007
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 💼 **LinkedIn Post**
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+```text
+🚀 Excited to share my latest MATLAB project — **CPU Pipeline Simulator (GUI Edition)** 🧠⚙️
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This interactive simulation visually represents how a pipelined CPU executes instructions across 5 key stages:
+🔹 IF — Instruction Fetch  
+🔹 ID — Instruction Decode  
+🔹 EX — Execute  
+🔹 MEM — Memory Access  
+🔹 WB — Write Back  
+
+💡 Key Highlights:
+✅ Real-time instruction animation  
+✅ Cache Hit/Miss visualization  
+✅ Branch Predictor simulation  
+✅ Dynamic IPC (Instructions Per Cycle) gauge  
+✅ Built completely using MATLAB graphics!
+
+This project helped me deeply understand instruction-level parallelism, branch prediction, and pipeline efficiency — concepts that lie at the heart of CPU design.  
+
+📂 GitHub Repository:  
+👉 [github.com/<your-username>/cpu-pipeline-simulator](https://github.com/<your-username>/cpu-pipeline-simulator)
+
+#MATLAB #ComputerArchitecture #Pipeline #Visualization #GunavS #DigitalForensics #CPUSimulator #Programming #Engineering
