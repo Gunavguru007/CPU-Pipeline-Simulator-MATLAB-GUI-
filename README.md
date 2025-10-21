@@ -30,7 +30,8 @@ The GUI provides an intuitive real-time visualization of instruction-level paral
 ---
 
 ### 🖥️ Demo
-![CPU Pipeline GUI Demo](https://github.com/<your-username>/cpu-pipeline-simulator/blob/main/demo.gif)
+![WhatsApp Image 2025-10-03 at 10 49 10_5c895fa2](https://github.com/user-attachments/assets/1dceb32c-0902-4787-bd7f-0a034dd0cc41)
+![WhatsApp Image 2025-10-03 at 10 57 14_258cd39b](https://github.com/user-attachments/assets/2755d25e-4928-464e-8489-d0de52780719)
 
 ---
 
